@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Deadly
+  - PickupItem
+  - BreakableItem
+  - Checkpoint
+  - Shake
+  - Wings
+  - Secret
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: really back
+    uniqueID: 2723534353
+    locked: 0
+  - name: back
+    uniqueID: 531965611
+    locked: 0
+  - name: middle
+    uniqueID: 2873025293
+    locked: 0
+  - name: front
+    uniqueID: 2002553427
+    locked: 0
+  - name: player
+    uniqueID: 879835955
+    locked: 0
+  - name: ui
+    uniqueID: 1356736489
+    locked: 0
+  m_RenderingLayers:
+  - Default
